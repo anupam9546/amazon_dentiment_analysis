@@ -1,4 +1,4 @@
-# amazon_dentiment_analysis
+# Amazon_sentiment_analysis
 
 In this project i analysed amazon review dataset , This dataset contains several million reviews of Amazon products, with the reviews separated into two classes for positive and negative reviews. The two classes are evenly balanced here.
 
@@ -12,3 +12,5 @@ With the increase in products in the e-commerce market there is a great need of 
 1. A convolutional neural net.
 2. A recurrent neural net These models should achieve results that are within a couple percent of state of the art at predicting the binary sentiment of the reviews. For the data set i will use the basic review dataset from kaggle.
 These models should achieve results that are within a couple percent of state of the art at predicting the binary sentiment of the reviews.
+
+The screenshot1 shows the datset and the other screenshot2 shows the accuracy
