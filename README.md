@@ -2,6 +2,8 @@
 
 In this project i analysed amazon review dataset , This dataset contains several million reviews of Amazon products, with the reviews separated into two classes for positive and negative reviews. The two classes are evenly balanced here.
 
+
+
 # Problem statement:
 Which machine learning approach performs better in terms of accuracy on the Amazon products reviews and can we increase it upto as high as 95%?
 
@@ -13,4 +15,5 @@ With the increase in products in the e-commerce market there is a great need of 
 2. A recurrent neural net These models should achieve results that are within a couple percent of state of the art at predicting the binary sentiment of the reviews. For the data set i will use the basic review dataset from kaggle.
 These models should achieve results that are within a couple percent of state of the art at predicting the binary sentiment of the reviews.
 
-The screenshot1 shows the datset and the other screenshot2 shows the accuracy
+
+"The screenshot53 shows the datset and the other screenshot55 shows the accuracy"
